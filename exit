@@ -1,0 +1,8 @@
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/FarhanNH/bun-dasar.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+user.email=farhan.nhuda@gmail.com
+user.name=FarhanNH
